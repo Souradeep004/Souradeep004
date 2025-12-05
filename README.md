@@ -7,7 +7,7 @@
   and continue to expand my expertise 📚 to build scalable and efficient AI solutions 🚀.
 </h4>
 <br></br>
-<h1 align = 'center'>Tech Stack 🚀</h1>
+<h1 align = 'center'>Tech Stack 🧰</h1>
 
 <h3 align="left">Programming Languages</h3>
 <p> <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/></a></p>
