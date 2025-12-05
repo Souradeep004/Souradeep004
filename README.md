@@ -1,25 +1,38 @@
-![MasterHead](https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif)
+<img width="5000" height="3542" alt="Souradeep Banerjee" src="https://github.com/user-attachments/assets/0bc4919e-8fdf-46cd-82ba-8b4a428c9d5b" />
 
-<h1 align="center">Hi 👋, I'm Souradeep Banerjee</h1>
-<h3 align="center">A passionate Photographer and Machine Learning enthusiast from India</h3>
-<img align = "right" alt ="Coding" width = "400" src = "https://i.giphy.com/SpopD7IQN2gK3qN4jS.webp">
+<h4 align="center" style="font-weight:400;">
+  I am an AI & ML enthusiast with a deep interest in Neural Networks, optimization techniques,  
+  and data-driven problem-solving 🤖. Currently pursuing a degree in Computer Science and Engineering with  
+  a specialization in AI & ML 🎓 at Chandigarh University, I have gained practical experience through multiple projects 🧪  
+  and continue to expand my expertise 📚 to build scalable and efficient AI solutions 🚀.
+</h4>
+<br></br>
+<h1></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souradeep004&label=Profile%20views&color=0e75b6&style=flat" alt="souradeep004" /> </p>
+<h3 align="left">Programming Languages</h3>
+<p> <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/></a></p>
 
-- 🌱 I’m currently learning **CNTK, CN2 Algorithm**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/souradeep-banerjee-0617b328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souradeep banerjee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Souradeep004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@emailsouradeep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/souradeep004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souradeep004" height="30" width="40" /></a>
-</p>
+<h3 align="left">AI / Machine Learning</h3>
+<p> <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/></a> <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/></a> <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/></a> <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/></a> <a href="https://seaborn.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white&style=for-the-badge"/></a> <a href="https://opencv.org" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Databases & DevOPS</h3>
+<p> <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/></a> <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/></a> <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/></a> <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/></a> <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradeep004&show_icons=true&locale=en&layout=compact" alt="souradeep004" /></p>
+<h3 align="left">Others</h3>
+<p> <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/></a> <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souradeep004&show_icons=true&locale=en" alt="souradeep004" /></p>
+<br><br>
+<h1 align = 'center'>GitHub Stats 🚀</h1>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep004&" alt="souradeep004" /></p>
+  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Souradeep004&show_icons=true&theme=radical" />
+
+  <!-- Most Used Languages -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Souradeep004&layout=compact&theme=radical" />
+
+</div>
+
+
+
