@@ -4,7 +4,7 @@
   I am an AI & ML enthusiast with a deep interest in Neural Networks, optimization techniques,  
   and data-driven problem-solving 🤖. Currently pursuing a degree in Computer Science and Engineering with  
   a specialization in AI & ML 🎓 at Chandigarh University, I have gained practical experience through multiple projects 🧪  
-  and continue to expand my expertise 📚 to build scalable and efficient AI solutions 🚀.
+  and continue to expand my expertise to build scalable and efficient AI solutions.
 </h4>
 <br></br>
 <h1 align = 'center'>Tech Stack 🧰</h1>
